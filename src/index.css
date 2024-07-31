@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width:450px) {
+  .second-main{
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+}
